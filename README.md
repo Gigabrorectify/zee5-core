@@ -36,4 +36,4 @@ Complete **ZEE5 Core** media environment offering multi-profile support, parenta
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
